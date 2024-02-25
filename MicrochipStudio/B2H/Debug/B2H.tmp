@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\Debug\B2H.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>B2H.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>B2H.map</FILE>
+  <FILE>B2H.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>12</LINE></start>
+  <loop><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>22</LINE></loop>
+  <MCHECK><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>27</LINE></MCHECK>
+  <SELECT><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>36</LINE></SELECT>
+  <READ_SW><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>51</LINE></READ_SW>
+  <INC_MODE><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>41</LINE></INC_MODE>
+  <INCREASE><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>62</LINE></INCREASE>
+  <DEC_MODE><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>46</LINE></DEC_MODE>
+  <DECREASE><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>73</LINE></DECREASE>
+  <INPUT_FILTER><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>56</LINE></INPUT_FILTER>
+  <Display><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>84</LINE></Display>
+  <INC_REST><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>68</LINE></INC_REST>
+  <DEC_REST><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>79</LINE></DEC_REST>
+  <DISP_7SEG><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>89</LINE></DISP_7SEG>
+  <DELAY_500MS><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>142</LINE></DELAY_500MS>
+  <BIN_TO_7SEG><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>95</LINE></BIN_TO_7SEG>
+  <LOOK_TABLE><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>113</LINE></LOOK_TABLE>
+  <TB_7SEG><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>103</LINE></TB_7SEG>
+  <DELAY10MS><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>125</LINE></DELAY10MS>
+  <LOOP2><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>129</LINE></LOOP2>
+  <LOOP1><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>131</LINE></LOOP1>
+  <delay_loop><FILE>D:\Micro Controller Assignment\AssemblyAssignment\B2H\B2H\main.asm</FILE><LINE>144</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
